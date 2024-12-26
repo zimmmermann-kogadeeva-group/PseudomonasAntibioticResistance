@@ -1,5 +1,3 @@
-Output/
-
 .parallel/
 .snakemake/
 .cache/
@@ -9,3 +7,12 @@ Output/
 __pycache__/
 
 *.swp
+*.svg
+
+Output/DESeq2/
+Output/Prokka/
+Output/Proteomics/
+Output/QC/
+Output/Quants/
+Output/SalmonIndex/
+Output/Snippy/
