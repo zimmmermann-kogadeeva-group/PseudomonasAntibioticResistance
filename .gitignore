@@ -1,0 +1,11 @@
+Output/
+
+.parallel/
+.snakemake/
+.cache/
+
+.ipynb_checkpoints/
+.jupyter.log
+__pycache__/
+
+*.swp
