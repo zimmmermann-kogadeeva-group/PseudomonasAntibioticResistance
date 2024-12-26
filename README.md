@@ -18,7 +18,7 @@ The following tools are needed:
 
 ## Running the pipeline
 
-First download the transcriptomics and WGS data from [ENA]().
+First download the transcriptomics and WGS data from [ENA](https://www.ebi.ac.uk/ena/browser/view/PRJEB76120).
 
 After placing the data in the `Data` directory, run the pipeline with the following command:
 ```
