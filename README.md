@@ -1,4 +1,6 @@
 
+[![DOI](https://zenodo.org/badge/908679580.svg)](https://doi.org/10.5281/zenodo.14559333)
+
 # Pseudomonas antibiotic resistance project
 
 All the scripts to reproduce all the analysis and figures in the paper.
